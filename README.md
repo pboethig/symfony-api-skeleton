@@ -54,5 +54,6 @@ Register a user
 
 [https://gist.github.com/tjamps/11d617a4b318d65ca583]
 (https://gist.github.com/tjamps/11d617a4b318d65ca583)
+</br>
 [https://bitgandtter.wordpress.com/2015/09/03/symfony-a-restful-app-motivation/]
 (https://bitgandtter.wordpress.com/2015/09/03/symfony-a-restful-app-motivation/)
