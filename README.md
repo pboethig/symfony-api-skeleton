@@ -32,10 +32,10 @@ I recommand to use Postman to test your api
 get a Token:
 
 ![get a token]
-(http://hpics.li/4ce29bb)
+(http://img15.hostingpics.net/pics/154728ScreenShot20160526at20106PM.png)
 
 ![register a user]
-(http://hpics.li/9d044b4)
+(http://img15.hostingpics.net/pics/852744ScreenShot20160526at124333PM.png)
 
 **Documentation:**
 
