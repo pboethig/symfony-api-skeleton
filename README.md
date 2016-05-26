@@ -1,4 +1,15 @@
 Symfony api skeleton
+
+to install what is needed
+
+```javascript
+
+composer install
+bin/console doctrine:schema:update --force
+
+
+```
+
 ====
 
 routes enabled:</br>
