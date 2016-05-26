@@ -34,8 +34,10 @@ get a Token:
 ![get a token]
 (http://img15.hostingpics.net/pics/154728ScreenShot20160526at20106PM.png)
 
+Register a user
+
 ![register a user]
-(http://img15.hostingpics.net/pics/852744ScreenShot20160526at124333PM.png)
+(http://img15.hostingpics.net/pics/356478ScreenShot20160526at20031PM.png)
 
 **Documentation:**
 
